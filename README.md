@@ -37,7 +37,7 @@ I am a **Backend and Embedded Systems Engineer** with a deep product engineering
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,ts,c,php,perl,ruby,bash,regex,html,css,js&perline=13" alt="Languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,kali,neovim,git,cmake,docker,nodejs,express,mysql,matlab,react,sqlite&perline=12" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,neovim,git,cmake,docker,nodejs,rust,mysql,matlab,react,latex&perline=12" alt="Backend & Databases" />
 </div>
 
 ---
@@ -61,33 +61,21 @@ A custom programming language designed from scratch, featuring a proprietary byt
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| C++, Python, OpenNN | System Level | High-throughput | Memory Safe (ARC) | Compiler Architecture | [View Repo](#) |
+| C++, Python, OpenNN | System Level | High-throughput | Memory Safe (ARC) | Compiler Architecture | [View Repo](https://github.com/phdgamer0/y---lang) |
 
 **Professional Scope:** Engineered the core C++ backend and parsing architecture. Handled advanced memory management techniques utilizing strict ARC to ensure memory safety without the overhead of traditional tracing garbage collectors. Successfully integrated the OpenNN standard library to support native machine learning computations.
 </details>
 
 <details>
-<summary><b>ESP32-S3 Hardware Security Multi-tool</b></summary>
+<summary><b>ESP32-S3 Hardware Security Multi-tool Nyxus</b></summary>
 <br>
 A handheld embedded device functioning as a security research tool capable of executing custom `y--` scripts dynamically loaded from an external SD card.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| C, C++, ESP32-S3, SPI | Embedded | Real-time | Fuzzing Capable | Hardware Security | [View Repo](#) |
+| C, C++, ESP32-S3, SPI | Embedded | Real-time | Fuzzing Capable | Hardware Security | [Private For Now](https://github.com/phdgamer0/Nyxus) |
 
 **Professional Scope:** Architected the embedded hardware design using the ESP32-S3 microcontroller (avoiding standard STM32 constraints). Developed firmware for secure script execution and physical payload delivery. Managed PCB component structuring, including precision integration of SMD diodes and custom laser emitters (Osram PL TB450B).
-</details>
-
-<details>
-<summary><b>Nyxus Security & DSP Library</b></summary>
-<br>
-A highly specialized library offering advanced cybersecurity payload tools alongside a lightweight audio Digital Signal Processing (DSP) module.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|-------|-------|-------------|----------|--------|------------|
-| C++, Assembly | Module | Low-latency | Cryptographic Ops | Signal Processing | [View Repo](#) |
-
-**Professional Scope:** Authored optimized cryptographic algorithms and signal processing routines tailored for memory-constrained embedded environments. Bridged cybersecurity principles with hardware-level audio manipulation.
 </details>
 
 <details>
@@ -97,7 +85,7 @@ An enterprise-grade graphical user interface developed to streamline and visuali
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| TypeScript, C++ | Application | Multi-threaded | Web Auditing | Tooling UX | [View Repo](#) |
+| TypeScript, C++ | Application | Multi-threaded | Web Auditing | Tooling UX | [Private For Now](#) |
 
 **Professional Scope:** Designed a zero-framework architecture combining a robust C++ networking backend with a responsive TypeScript frontend. Created streamlined workflows for security researchers to configure payloads, parse results, and analyze vulnerability vectors.
 </details>
@@ -145,26 +133,15 @@ Conducting targeted audits on open-source repositories and network architectures
 
 <div align="center">
   <a href="https://leetcode.com/u/cxry/"><img src="https://img.shields.io/badge/LeetCode-Advanced_Problem_Solver-9370DB?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://tryhackme.com/p/yazdan.phdgamer0"><img src="https://img.shields.io/badge/TryHackMe-Security_Researcher-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phdgamer0&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF&icon_color=8A2BE2&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phdgamer0&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF&icon_color=8A2BE2&sideNums=FFFFFF&sideLabels=FFFFFF&ring=8A2BE2&fire=9370DB&currStreakLabel=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdgamer0&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF&bg_color=0D1117&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phdgamer0&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
-</div>
 
 ---
 
@@ -214,7 +191,7 @@ Open To:
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-6A5ACD?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </div>
 <div align="center">
-<i>"Engineering robust, scalable solutions at the intersection of low-level hardware and high-level architecture."</i>
+<i>"Some people, when confronted with a problem, think 'I know, I'll use regular expressions.' Now they have two problems."</i>
 
 
 
