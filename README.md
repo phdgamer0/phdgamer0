@@ -1,25 +1,25 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9370DB,6A5ACD&height=200&section=header&text=Engineering%20The%20Future&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Header Banner"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+(3.9+GPA);Backend+%26+Embedded+Systems+Engineer;Compiler+Design+%26+C%2B%2B+Developer;Cybersecurity+%26+Hardware+Researcher" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+%26+Embedded+Systems+Engineer;Compiler+Design+%26+C%2B%2B+Developer;Cybersecurity+%26+Hardware+Researcher" alt="Typing SVG Animation" />
 
   <br/>
 
   <img src="https://img.shields.io/badge/Computer_Engineering-3.9_GPA-4B0082?style=for-the-badge" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Yalova,%20Türkiye-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Samsun,%20Türkiye-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
   <br/><br/>
 
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="www.linkedin.com/in/yazdan-samari-487b60184"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yazdan.phdgamer0@gmail.com"><img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/phdgamer0"><img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Profile_Views-1337-4B0082?style=flat-square&logo=github" alt="Views" />
-  <img src="https://img.shields.io/badge/Followers-256-8A2BE2?style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Stars-1024-9370DB?style=flat-square&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=phdgamer0&label=Profile%20Views&color=4B0082&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/phdgamer0?label=Followers&style=flat-square&color=8A2BE2&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Stars-3-9370DB?style=flat-square&logo=github" alt="Stars" />
 </div>
 
 ---
@@ -35,13 +35,9 @@ I am a **Backend and Embedded Systems Engineer** with a deep product engineering
 ## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,ts,c,assembly,bash,regex&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,ts,c,php,perl,ruby,bash,regex,html,css,js&perline=13" alt="Languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10" alt="Frontend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,sqlite&perline=10" alt="Backend & Databases" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,kali,neovim,git,cmake,docker,aws&perline=10" alt="Cloud, DevOps & Tooling" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,neovim,git,cmake,docker,nodejs,express,mysql,matlab,react,sqlite&perline=12" alt="Backend & Databases" />
 </div>
 
 ---
@@ -145,29 +141,10 @@ Conducting targeted audits on open-source repositories and network architectures
 
 ---
 
-## 📜 Certifications
-
-### Defense & Enterprise Training
-<img src="https://img.shields.io/badge/Defense_Industry_Education_Program-Completed-4B0082?style=for-the-badge" alt="Defense" /> <img src="https://img.shields.io/badge/National_Internship_Program_2026-Accepted-8A2BE2?style=for-the-badge" alt="Internship" />
-
-### AWS
-<img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-Active-9370DB?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle_Certified_Associate-Active-6A5ACD?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-
-### Cisco & NPTEL
-<img src="https://img.shields.io/badge/Cisco_Network_Security-Verified-4B0082?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /> <img src="https://img.shields.io/badge/NPTEL_Advanced_C++-Certified-8A2BE2?style=for-the-badge" alt="NPTEL" />
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Advanced_Problem_Solver-9370DB?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Developer-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Active_Contributor-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-6A5ACD?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://leetcode.com/u/cxry/"><img src="https://img.shields.io/badge/LeetCode-Advanced_Problem_Solver-9370DB?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </div>
 
 ---
@@ -175,10 +152,10 @@ Conducting targeted audits on open-source repositories and network architectures
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=githubusername&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF&icon_color=8A2BE2&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=githubusername&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF&icon_color=8A2BE2&sideNums=FFFFFF&sideLabels=FFFFFF&ring=8A2BE2&fire=9370DB&currStreakLabel=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phdgamer0&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF&icon_color=8A2BE2&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phdgamer0&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF&icon_color=8A2BE2&sideNums=FFFFFF&sideLabels=FFFFFF&ring=8A2BE2&fire=9370DB&currStreakLabel=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubusername&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF&bg_color=0D1117&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdgamer0&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF&bg_color=0D1117&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -186,7 +163,7 @@ Conducting targeted audits on open-source repositories and network architectures
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=githubusername&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=phdgamer0&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
 </div>
 
 ---
@@ -194,7 +171,7 @@ Conducting targeted audits on open-source repositories and network architectures
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubusername&bg_color=0D1117&color=9370DB&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phdgamer0&bg_color=0D1117&color=9370DB&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -202,7 +179,7 @@ Conducting targeted audits on open-source repositories and network architectures
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/githubusername/githubusername/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/phdgamer0/phdgamer0/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
@@ -231,9 +208,9 @@ Open To:
 ```
 ## 🔗 Connect
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/Gmail-Connect-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-Connect-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:yazdan.phdgamer0@gmail.com"><img src="https://img.shields.io/badge/Gmail-Connect-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="www.linkedin.com/in/yazdan-samari-487b60184"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/cxry/"><img src="https://img.shields.io/badge/GitHub-Connect-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-6A5ACD?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </div>
 <div align="center">
